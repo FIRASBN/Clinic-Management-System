@@ -6,7 +6,7 @@ A lightweight **Clinic Management System** built with **PHP**, **CSS**, and a bi
 - Patient registration & management
 - Doctor management
 - Appointment scheduling
-- Basic admin dashboard (if applicable)
+
 
 ## Tech Stack
 - PHP
@@ -16,8 +16,8 @@ A lightweight **Clinic Management System** built with **PHP**, **CSS**, and a bi
 ## Getting Started
 ### Prerequisites
 - PHP 7.4+ (or your current version)
-- A web server (Apache/Nginx) or XAMPP/WAMP
-- (Optional) MySQL/MariaDB if the project uses a database
+- A web server XAMPP
+- MySQL a database
 
 ### Installation
 1. Clone the repository:

@@ -36,5 +36,4 @@ A lightweight **Clinic Management System** built with **PHP**, **CSS**, and a bi
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-Add a license or specify usage terms here.
+
